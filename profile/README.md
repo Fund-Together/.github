@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Fund Together
+### Alternative Funding for Education & Environmental projects 
+#### A Starton Hackaton
 <!--
 
 **Here are some ideas to get you started:**
