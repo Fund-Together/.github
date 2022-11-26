@@ -90,7 +90,7 @@ In order for the web platform to properly work, we have used the following off-c
 The biggest challenge for off chain development was **TIME**. That's really time consuming to make a dynamic front-end, a webapp that actually works with a minimum of bugs even for a few pages with this time constraint. We solve it by MVPing it as much as possible, not adding too much features, use frameworks for styles or data management, be fast on wireframing, and mostly working a lot of times on it haha !
 (Note Wolfa' aka main offchain developer) : That wasn't easy because I mostly learnt React and tailwind during this project (Symfony was really easy and not time-consuming though)
 
-# Team and comments
+# 🙋🙋‍♂️ Team and comments
 Our team name is **Fund Together!**, but we registered as "Swiss 42 Fund Together". We are a team of only 2 members !
 
 ### Julien Renault (Aka toolback)
@@ -102,7 +102,6 @@ I personally loved working on this hackathon ! Even if it was very tiring (I'm w
 We sincerely think that our idea is excellent, that our project can work if we give ourselves the appropriate methods, by improving our applications, our smart contracts, etc... That's why we would like to develop it further, in a more professional way after this hackathon! If any of you, dear readers, are interested, do not hesitate to contact us : Wolfa'#2965
 
 
-# 🙋🙋‍♂️ Team and comments
 ## Our demonstration video : <https://youtu.be/a3wcvI6im48>
 ## Use of Starton and its partners :
 Concerning the integration of partners around the Hackaton, we used 
