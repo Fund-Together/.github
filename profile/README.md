@@ -102,7 +102,7 @@ I personally loved working on this hackathon ! Even if it was very tiring (I'm w
 We sincerely think that our idea is excellent, that our project can work if we give ourselves the appropriate methods, by improving our applications, our smart contracts, etc... That's why we would like to develop it further, in a more professional way after this hackathon! If any of you, dear readers, are interested, do not hesitate to contact us : Wolfa'#2965
 
 
-## Our demonstration video : <https://youtu.be/a3wcvI6im48>
+## 📽 Our demonstration video : <https://youtu.be/a3wcvI6im48>
 ## Use of Starton and its partners :
 Concerning the integration of partners around the Hackaton, we used 
 - Starton for the deployment of an ERC721 template to offer a token access to our campaign creators, the custom deployment of smart Contract for our Usd Test, and the monitoring to follow and interact with all our deployed contracts.
