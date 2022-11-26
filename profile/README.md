@@ -12,7 +12,7 @@ Due to the time constraint, we have based our project on the MVP concept (Minima
 Hoping you like our idea, as well as the first draft of the site, and looking forward to receiving your feedback, we sincerely wish you a pleasant time
 
 
-# How to setup this project
+# 🪜 How to setup this project
 
 First, we would like to tell you that our project is based on various languages and frameworks (Symfony, MySQL, Solidity, React.JS, etc...). It requires good knowledge and experience to be tested locally. You might spend more time than necessary. That's why we recommend you to test our site through this link:
 <https://4752-2001-1715-4e22-3b30-e1c4-6d99-f664-698b.eu.ngrok.io/>
@@ -43,11 +43,11 @@ Contract Deployment BSC Testnet :
   initial mumbai test(0xC3c263D1B2F9a1b7de8231000552011F4102FFCE)
   Campaign Factory deployed at address ->  0x8dac4D9a58b355A5Dc33DA60ebB652d0D6fEFbAf
 
-# What does this app solve ?
+# 🤔 What does this app solve ?
 Who has never dreamed of redesigning the educational system, and even of creating his own school? An online school for example? There are a lot of incredible projects in the world (Ecole 42 for example haha, but also associations fighting against global warming or free and independent newspapers). The problem is that most of these beautiful projects, no matter how big they are, need money to keep going. That's how the world goes. As these projects do not all have a viable business model or a vocation to generate a significant CA, they very often use participative funding (it is people who finance and bring in the money for the project). However, by taking inspiration from fundraising, kickstarters, and more particularly from crowdfunding platforms that already exist on the Web2, we realized a big problem. Each citizen who wants to contribute to a project such as the creation of a school or an association, by financing it, loses money! At least objectively.
 We started from the premise that this was not a fatality, because in the web 3, there is an adage that states that " With time, everyone wins ". That's why we believe that this problem can be solved by using Web 3 technologies and community. Our project has a very clear purpose : To transpose the funding for schools, associations, educational projects, from Web 2 to Web 3! With the challenge that there will be no more losers in such funding, but only winners, both for the projects and for their donators! Thus, we will improve in a notable way the education online or not, as well as our world through the possibility of financing ecological fights, against the global warming, or for example of the newspapers / free and independent media (Improve media's business models)!
 
-# Solution
+# 💡 Solution
 
 
 We are pleased to present our alternative financing solution for schools, but also for all educational projects, associations, journals, ...
@@ -102,7 +102,7 @@ I personally loved working on this hackathon ! Even if it was very tiring (I'm w
 We sincerely think that our idea is excellent, that our project can work if we give ourselves the appropriate methods, by improving our applications, our smart contracts, etc... That's why we would like to develop it further, in a more professional way after this hackathon! If any of you, dear readers, are interested, do not hesitate to contact us : Wolfa'#2965
 
 
-# Team and comments
+# 🙋🙋‍♂️ Team and comments
 ## Our demonstration video : <https://youtu.be/a3wcvI6im48>
 ## Use of Starton and its partners :
 Concerning the integration of partners around the Hackaton, we used 
