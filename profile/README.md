@@ -15,7 +15,7 @@ Hoping you like our idea, as well as the first draft of the site, and looking fo
 # 🪜 How to setup this project
 
 First, we would like to tell you that our project is based on various languages and frameworks (Symfony, MySQL, Solidity, React.JS, etc...). It requires good knowledge and experience to be tested locally. You might spend more time than necessary. That's why we recommend you to test our site through this link:
-<https://2ed9-2001-1715-4e22-3b30-5d9d-8743-1eed-5a00.eu.ngrok.io//>
+<https://2ed9-2001-1715-4e22-3b30-5d9d-8743-1eed-5a00.eu.ngrok.io/>
 (The site is hosted on a local machine and uploaded via Ngrok, send a message on discord if the link does not work: Wolfa'#2965
 Also, we let the dev tools bar, that is a dev symfony version, not prod, and you can zoom a little bit for better experience if you have a large screen, hope you'll enjoy !)
 
